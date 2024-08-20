@@ -1,0 +1,4 @@
+2024-08-20 02:30:38.488 WARNING (SyncWorker_0) [homeassistant.loader] We found a custom integration hacs which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
+2024-08-20 02:30:39.103 WARNING (Recorder) [homeassistant.components.recorder.util] The system could not validate that the sqlite3 database at //config/home-assistant_v2.db was shutdown cleanly
+2024-08-20 02:30:39.174 WARNING (Recorder) [homeassistant.components.recorder.util] Ended unfinished session (id=13 from 2024-08-19 00:59:41.160651)
+2024-08-20 02:31:36.148 WARNING (MainThread) [homeassistant.helpers.service] Referenced entities light.hue_white_lamp_1 are missing or not currently available
